@@ -1,0 +1,31 @@
+*{
+    margin: 25px;
+    padding: 1px;
+}
+
+body{
+    font-family: 'Elephant', sans-serif;
+}
+
+#res{
+    text-align: center;
+    height: 60px;
+    text-decoration-line: underline;
+}
+
+#resultado{
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    height: 50px;
+    color: brown;
+}
+
+
+#bc{
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+    color: blueviolet;
+    height: 50px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    margin-bottom: 1px;
+}

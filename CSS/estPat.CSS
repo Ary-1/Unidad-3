@@ -1,0 +1,20 @@
+*{
+    margin: 20px;
+    padding: 1px;
+}
+
+#campo{
+    font-family: 'small-caps', cursive;
+    font-size: 20pt;
+    color: magenta;
+}
+
+
+#ev{
+    font-family: 'Arial Black', sans-serif;
+    color: dodgerblue;
+    font-size: 15pt;
+    height: 50px;
+    border-bottom: 1px solid rgba(233,233,233,0.2);
+    margin-bottom: 1px;
+}

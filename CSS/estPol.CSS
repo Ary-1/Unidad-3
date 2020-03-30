@@ -1,0 +1,27 @@
+*{
+    margin: 23px;
+    padding: 1px;
+}
+
+#resultado1{
+    font-family: 'small-caps', cursive;
+    line-height: 150%;
+    font-size: 20pt;
+    color: magenta;
+}
+
+#resultado2{
+    font-family: 'Elephant', cursive;
+    line-height: 150%;
+    font-size: 20pt;
+    color: darkslateblue;
+}
+
+#ev{
+    font-family: 'Arial Black', sans-serif;
+    color: dodgerblue;
+    font-size: 15pt;
+    height: 50px;
+    border-bottom: 1px solid rgba(233,233,233,0.5);
+    margin-bottom: 2px;
+}
